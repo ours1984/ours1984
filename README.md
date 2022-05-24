@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是一个斌,来自老百姓
+<img src="https://ghchart.rshah.org/xiaoqide" alt="xiaoqide's Github chart" />
+
+[![xiaoqide's github stats](https://github-readme-stats.vercel.app/api?username=xiaoqide)](https://github.com/anuraghazra/github-readme-stats)
+
