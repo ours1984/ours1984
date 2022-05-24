@@ -1,8 +1,8 @@
-# Hi👋欢迎
+## 👋 欢迎广拎
 
 ---
 
-## Tech & Tools Preference
+## 🔨 技能列表
 
 <p >
   <img src="https://img.shields.io/badge/-c++-green?style=flat&logo=c&logoColor=00c8ff">
