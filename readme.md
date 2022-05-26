@@ -31,5 +31,5 @@
 
 <a href="https://github.com/xiaoqide">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xiaoqide&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewtex&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoqide&theme=buefy&layout=compact" />
 </a>
