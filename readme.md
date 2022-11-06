@@ -1,10 +1,12 @@
-# 👋 欢迎广拎
-
-清瘟优森么珂以绑呢
+# 👋 欢迎
+本博客作品均为原创，禁止未经授权的采集修改！
+<p >
+  <img src="https://pic.ours1984.top/img/20220717103350.png">
+</p>
 
 ---
 
-## 🔨 技能列表
+## 🔨 技能
 
 <p >
   <img src="https://img.shields.io/badge/-c++-green?style=flat&logo=c&logoColor=00c8ff">
@@ -31,7 +33,7 @@
 
 ---
 
-<a href="https://github.com/xiaoqide">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xiaoqide&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoqide&theme=buefy&layout=compact" />
+<a href="https://github.com/ours1984">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ours1984&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ours1984&theme=buefy&layout=compact" />
 </a>
